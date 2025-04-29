@@ -1,0 +1,76 @@
+.invest__container {
+  position: relative;
+  overflow: hidden;
+}
+.invest__layout {
+  max-width: 1140px;
+  margin: 0 auto;
+  position: relative;
+}
+.invest__main--text {
+  padding: 250px 0px 100px 0px;
+}
+h5 {
+  color: #3182f6;
+  font-size: 31px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.invest__main--title--sub {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.invest__main--img--lay {
+  position: relative;
+  width: 600px;
+  height: 934px;
+}
+.invest__img--sss {
+  width: 60%;
+  height: 85%;
+  position: absolute;
+  right: -80px;
+  top: 7%;
+}
+.invest__img--sss--ma {
+  width: 105%;
+  height: 100%;
+  position: relative;
+  left: 185px;
+}
+.invest__img--textOwn {
+  position: absolute;
+  bottom: 700px;
+  left: 750px;
+}
+.invest__img--textOwn--sub {
+  font-size: 27px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.invest__img--textTwo--sub {
+  font-size: 27px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.invest__img--textTwo {
+  position: absolute;
+  bottom: 400px;
+  left: 0px;
+}
+.invest__last--text--box {
+  width: 100%;
+  position: relative;
+  top: 10px;
+  right: 30px;
+}
+.invest__last--text {
+  position: relative;
+  right: 50px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.4;
+  margin-bottom: 100px;
+}

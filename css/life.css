@@ -1,0 +1,103 @@
+.life__layout {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.life__text--main {
+  font-size: 50px;
+  padding: 260px 0px 100px 0px;
+  color: black;
+  line-height: 1.4;
+}
+.life__boof--img--box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.life__book {
+  opacity: 1;
+  width: 750px;
+}
+.life--sub--text--box {
+  line-height: 1.4;
+  margin-top: 100px;
+}
+.life--sub--text {
+  font-size: 40px;
+  line-height: 1.4;
+  margin-bottom: 0px;
+  color: black;
+}
+.life--sub--text-own {
+  font-size: 40px;
+  color: rgb(158, 158, 158);
+  margin-bottom: 20px;
+}
+.life--sub--text--ssa {
+  font-size: 20px;
+  line-height: 1.4;
+  font-weight: 700;
+}
+.life__mobi--img--box {
+  display: flex;
+  width: 100%;
+  margin-top: 100px;
+}
+.life__mobi--img--box--two {
+  padding-left: 40px;
+  margin-top: 180px;
+}
+.life__mobi--img {
+  width: 800px;
+  height: 1000px;
+  object-fit: cover;
+  margin-bottom: 30px;
+}
+.life__mobi--img--two {
+  width: 400px;
+}
+.life__mobi--img--two--text {
+  font-size: 19px;
+  font-weight: 700;
+  margin-top: 30px;
+  line-height: 1.4;
+}
+.life__mobi--img--box--own--text {
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+.life__mobi--img--box--own--text-sub {
+  font-size: 40px;
+  color: rgb(179, 179, 179);
+  line-height: 1.4;
+}
+.life__three--box {
+  margin-top: 200px;
+}
+.life__three--img {
+  width: 1200px;
+}
+.life__three--text--box {
+  margin-top: 50px;
+}
+.life__three--text--subow {
+  font-size: 40px;
+}
+.life__three--text--subto {
+  font-size: 40px;
+  color: rgb(179, 179, 179);
+  margin-top: 10px;
+}
+.life__three--text--sub--te {
+  font-size: 20px;
+}
+.life__three--text--layou--bo {
+  display: flex;
+  margin-bottom: 200px;
+}
+.life__three--text--sub--texxx {
+  font-weight: 600;
+  color: rgb(80, 80, 80);
+  margin-top: 50px;
+  margin-left: 71px;
+}

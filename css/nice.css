@@ -1,0 +1,45 @@
+.nice__container {
+  width: 100%;
+  height: 100%;
+  background-color: #f9fafb;
+}
+.nice__layout {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.nice__box--text {
+  padding: 250px 0px 150px 0px;
+}
+.nice__main--text {
+  color: #3182f6;
+  font-size: 31px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.nice__main--text--sub {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.nice__img--box {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 0px 0px 200px 0px;
+}
+.nice__img--text {
+  font-size: 30px;
+  padding: 20px 0px 20px 0px;
+}
+.nice__img--text--sub {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1.4;
+  color: rgb(167, 167, 167);
+}
+.loan__text--sub {
+  color: gray;
+}
+.loan__text--sub--own {
+  color: rgb(201, 201, 201);
+}

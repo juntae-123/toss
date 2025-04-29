@@ -1,0 +1,63 @@
+.home__card--container{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    background-color: #f9fafb;
+}
+.home__card--container--layout{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 250px 0;
+}
+.card__layout--box{
+    width: 100%;
+}
+.card__layout--title{
+    width: 100%;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #3182f6;
+    margin-bottom: 30px;
+}
+.card__layout--title--sub{
+    width: 100%;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.4;
+   
+    margin-bottom: 80px;
+}
+.card__free--box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.card__free--name{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.4;
+    color: rgb(49, 130, 246);
+}
+.card__free--img{
+    width: 45%;
+    
+}
+.card__free--name--mofree{
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1.4;
+}
+.card__free--name--sub{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.5;
+    color: rgb(175, 175, 175);
+}
+.card__free--titel--two{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
